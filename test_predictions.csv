@@ -24,7 +24,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569917183385432064,American,,J0eSmith,,0,americanair literally stopped allowing people wait line customer service incredible worst customer service,,2015-02-23 09:50:19 -0800,,,negative
 569677660890116096,American,,andreach1,,0,americanair really want get home tonight preferably please stop delaying plane 😢😕😦 americanairlines,"[32.89772724, -97.03561645]",2015-02-22 17:58:33 -0800,ATX ,Central Time (US & Canada),negative
 569567629083430912,US Airways,,Asiators,,0,usairways ive hold reservation desk 3 hour help,,2015-02-22 10:41:19 -0800,"Dallas, TX",Central Time (US & Canada),negative
-568761693997674496,Delta,,Ch1en1,,0,jetblue denverboston 210 flight 994 bostondenver 215 flight 493 plane visible snack crumb seat upon boarding,,2015-02-20 05:18:49 -0800,,Greenland,negative
+568761693997674496,Delta,,Ch1en1,,0,jetblue denverboston 210 flight 994 bostondenver 215 flight 493 plane visible snack crumb seat upon boarding,,2015-02-20 05:18:49 -0800,,Greenland,neutral
 570114451120074752,American,,Steponme,,0,americanair nothing mother nature like poor commutation,"[32.91792297, -97.00367737]",2015-02-23 22:54:12 -0800,"Moore, OK & Woodway, TX",Central Time (US & Canada),negative
 569870442388983808,US Airways,,ashwatson3,,0,usairways would rather plane get exposed nasty contagious virus work wth get flight changed late flightr date,,2015-02-23 06:44:35 -0800,,,negative
 569968023592943616,Delta,,DavidAlfieWard,,0,jetblue hi guy general enquires email address please thanks david,,2015-02-23 13:12:20 -0800,London UK & USA,,neutral
@@ -72,7 +72,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569618371148443649,American,,SarahisJewish,,0,americanair 245 im take one rep different gate rude asked assistance thanks though,"[38.85482856, -77.04128223]",2015-02-22 14:02:57 -0800,"Los Angeles, CA",Quito,negative
 570298918971576320,United,,CheerTymeDad,,1,united cheertymedad buy tix 3 day flight cant transfer tix flawed security logic flawed customer service,,2015-02-24 11:07:12 -0800,,,negative
 570151698489954304,United,,DJPartyMarty,,0,united ua flight 1001 im currently stuck portland missed ride 3 hour delay getmartyhome,"[45.58711296, -122.58038932]",2015-02-24 01:22:12 -0800,,Pacific Time (US & Canada),negative
-569586098772578304,Southwest,,TacoDangerous,,0,southwestair boooo dont like airline httptcowhagpknnlf,,2015-02-22 11:54:43 -0800,"Two Guns, Arizona",Central Time (US & Canada),neutral
+569586098772578304,Southwest,,TacoDangerous,,0,southwestair boooo dont like airline httptcowhagpknnlf,,2015-02-22 11:54:43 -0800,"Two Guns, Arizona",Central Time (US & Canada),negative
 569856874604048385,US Airways,,jcsolomons,,0,usairways thank website crashing,,2015-02-23 05:50:40 -0800,"Boston, MA",Quito,positive
 569457148129779714,United,,meigheyburn,,0,united bag im mexico go build house amp suitcase never got flight cle w need san68059m,,2015-02-22 03:22:18 -0800,"Akron, Ohio",Eastern Time (US & Canada),negative
 569199676282564609,Delta,,CamiCorreaBal,,0,jetblue mom baggage lost fly 1557 fort lauderdalebogotá today colombian employee treated u badly need help please,,2015-02-21 10:19:12 -0800,,Bogota,negative
@@ -106,7 +106,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569564566272811008,US Airways,,CDarnall1,,0,usairways mobile app horrible need major overhaul,,2015-02-22 10:29:09 -0800,"Lexington, KY",Eastern Time (US & Canada),negative
 567752009806131200,Southwest,,jonw4570,,0,southwestair rebook flight board bham,,2015-02-17 10:26:42 -0800,"Huntsville, AL",Central Time (US & Canada),neutral
 567732372997963777,US Airways,,JasonPlizga,,0,usairways flight 3900 fro orf phl,,2015-02-17 09:08:40 -0800,,,neutral
-569148114193530881,Southwest,,SuccessHorizons,,0,southwestair thanks 4 great service staff letting change flight 5 time free pvd sky always swa,,2015-02-21 06:54:19 -0800,"Barrington, Rhode Island",Eastern Time (US & Canada),negative
+569148114193530881,Southwest,,SuccessHorizons,,0,southwestair thanks 4 great service staff letting change flight 5 time free pvd sky always swa,,2015-02-21 06:54:19 -0800,"Barrington, Rhode Island",Eastern Time (US & Canada),positive
 568430874049581058,Delta,,Old_bauer,,0,jetblue better find way get puerto rico tomorrow morning besides charging u three time cash originally paid,,2015-02-19 07:24:15 -0800,,Eastern Time (US & Canada),negative
 569686401735745536,American,,TranceInJail,,0,americanair hi flight dfw 2463 cancelled flightled tonight called left number call back 3hrs please help,,2015-02-22 18:33:17 -0800,NYC/TX,Central Time (US & Canada),negative
 569688245019111425,American,,c_cgottlieb,,0,americanair pathetic service,,2015-02-22 18:40:36 -0800,"Washington, DC",Atlantic Time (Canada),negative
@@ -163,7 +163,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569667517146222592,American,,MarkZeihenJr,,0,americanair who pick best picture dont want board airline know,,2015-02-22 17:18:14 -0800,"Milwaukee, WI",Central Time (US & Canada),negative
 569188782492266496,US Airways,,AnnaFreifeld,,0,usairways one clt know runway issuesmy inbound flight one delayedconnection left without menow im stuck,,2015-02-21 09:35:55 -0800,,,negative
 567725387904720896,US Airways,,Forsyth_Factor,,0,usairways thanks reply hoping everything cleared charlotte monday,,2015-02-17 08:40:54 -0800,Anderson,Indiana (East),positive
-568205181990637568,Delta,,josiewarrior,,0,jetblue jetblue sofly wish firststari seetonight httptcopyjaoaynx6,,2015-02-18 16:27:26 -0800,,,positive
+568205181990637568,Delta,,josiewarrior,,0,jetblue jetblue sofly wish firststari seetonight httptcopyjaoaynx6,,2015-02-18 16:27:26 -0800,,,neutral
 569288530419175424,Southwest,,mollywynne,,0,southwestair wifi plane got ta pay help broke homegirl out✈️📱,,2015-02-21 16:12:17 -0800,Aspiring Disney princess✨,Eastern Time (US & Canada),negative
 570275632518733825,American,,RobertDwyer,,0,americanair key point confusion whether make change even though initial flight booking problem u airway metal,,2015-02-24 09:34:40 -0800,"Wellesley, MA",Eastern Time (US & Canada),negative
 570012257549070337,Virgin America,,arieldaie,,0,virginamerica im elevategold good reason rock,,2015-02-23 16:08:07 -0800,Los Angeles,,neutral
@@ -485,7 +485,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569931716049154051,United,,roxymtjoy,,0,united counter agent rdu deserve medal thankyou,,2015-02-23 10:48:04 -0800,Pittsburgh area,Eastern Time (US & Canada),negative
 568883827218763777,Southwest,,chemasilvaurban,,0,southwestair route flight mexico city chicago midway using service,,2015-02-20 13:24:08 -0800,,,negative
 569374522157207552,Southwest,,scoobydoo9749,,0,southwestair 10 hr hanging oh understand thing get crazy n sometimes 10 hour isnt long enough,,2015-02-21 21:53:59 -0800,"Tallahassee, FL",America/Chicago,negative
-569786249508048896,Delta,,chuxtapose,,0,happy sfo hopefully youll add pdx soon “ jetblue added two new destination fll sfo la vega last year ”,,2015-02-23 01:10:02 -0800,Las Vegas,Pacific Time (US & Canada),neutral
+569786249508048896,Delta,,chuxtapose,,0,happy sfo hopefully youll add pdx soon “ jetblue added two new destination fll sfo la vega last year ”,,2015-02-23 01:10:02 -0800,Las Vegas,Pacific Time (US & Canada),negative
 568955324511563776,Delta,,TumbaSherman,,2,jetblue love guy know paid prem wifi toplay vainglorygame go ping terrible httptcocmjriwop7o,,2015-02-20 18:08:14 -0800,Ft. Lauderdale,Eastern Time (US & Canada),positive
 570270651996463104,American,,krisdelcampo,,0,americanair flight 35 im way,,2015-02-24 09:14:53 -0800,"Las Vegas, NV",Eastern Time (US & Canada),neutral
 568749045528842240,US Airways,,tayyylorrrx0,,0,usairways thank refunding baggage really appreciate,,2015-02-20 04:28:33 -0800,NJ 973 | NC 910,Eastern Time (US & Canada),positive
@@ -540,7 +540,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569566981835218944,Virgin America,,intlwriter,,0,virginamerica rang wait 35 minute book ticket vendor fix site,,2015-02-22 10:38:45 -0800,@ the moment in New Delhi,Pacific Time (US & Canada),negative
 569657202325229568,United,,bryankendro,,0,united flight dfw iad cancelled flightled mechanical get rental car mdtmy origin,,2015-02-22 16:37:15 -0800,Harrisburg,Eastern Time (US & Canada),negative
 570231786824994816,US Airways,,yorkshire2002,,0,usairways thanks ruiningmy vacation best could done without,,2015-02-24 06:40:27 -0800,Kentucky,Eastern Time (US & Canada),positive
-570258597180940288,American,,laurmar737,,0,americanair im sure bird warmer weather soon,,2015-02-24 08:26:59 -0800,"San Diego, CA",,neutral
+570258597180940288,American,,laurmar737,,0,americanair im sure bird warmer weather soon,,2015-02-24 08:26:59 -0800,"San Diego, CA",,negative
 569596394819883008,Delta,,OlivierGachot,,11,jetblue great experience flight sfo jfk seat service food everything top quality back soon,,2015-02-22 12:35:37 -0800,Palo Alto CA,Pacific Time (US & Canada),negative
 570254368538173440,United,,guichaves1989,,0,united tried one available bogota everyone rude houston stuck 35 hour guy,,2015-02-24 08:10:10 -0800,,Central Time (US & Canada),negative
 568282478076669952,US Airways,,Gregg_Silver,,0,usairways credit card statement received anything way look,,2015-02-18 21:34:35 -0800,,Quito,negative
@@ -908,7 +908,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569188792541818880,United,,paul_e_jones,,1,united maintenance issue stuck geneva meal voucher wont even cover plate flight spaghetti really,,2015-02-21 09:35:57 -0800,"Apex, NC",Eastern Time (US & Canada),negative
 568573570114134016,United,,MeYoItsMe,,0,united 50 minute waitstill gate broken jetway might miss connection,,2015-02-19 16:51:17 -0800,,,negative
 568157491927896064,Delta,,thisnamerocks2,,0,jetblue shouldve one flight instead southwestair lost bag add insult injury,,2015-02-18 13:17:56 -0800,"Canton, MA",,negative
-568438000843034624,Southwest,,JiggaJazzman,,0,thanks southwestair get go destinationdragons imaginedragons show weekend utah velourlive thankyou,,2015-02-19 07:52:35 -0800,,,neutral
+568438000843034624,Southwest,,JiggaJazzman,,0,thanks southwestair get go destinationdragons imaginedragons show weekend utah velourlive thankyou,,2015-02-19 07:52:35 -0800,,,positive
 568401790250700800,United,,WhaddupWorld,,0,united flight turned around mechanical reason 13015 never fly united dont check plane properly,,2015-02-19 05:28:41 -0800,,,negative
 569522040547385344,United,,StregaHorn,,0,united joke lot angry people iah,,2015-02-22 07:40:10 -0800,"Houston, TX",Central Time (US & Canada),negative
 569930577643769856,United,,GalbraithPeter,,0,united guy split charge credit card making unnecessarily expensive people fly guy pt,,2015-02-23 10:43:33 -0800,"Kingston, Ontario",Central Time (US & Canada),negative
@@ -1019,7 +1019,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568803368367366144,Southwest,,geekstiel,,0,southwestair dmed,,2015-02-20 08:04:25 -0800,,Atlantic Time (Canada),neutral
 569021593852239872,US Airways,,_G_Stevens,,0,usairways spoke representative moved flight earlier thank much follow,,2015-02-20 22:31:34 -0800,NYC,Eastern Time (US & Canada),positive
 569587663692554242,US Airways,,ericabevill,,0,usairways hour plane knowing maint issue ahead time announced another 30 min r plane,,2015-02-22 12:00:56 -0800,"Chicago, IL",Central Time (US & Canada),negative
-569317426975760384,US Airways,,Debbie_Crockett,,0,usairways landed flight 545 chance making flight 5530 phoenix au,,2015-02-21 18:07:06 -0800,"Austin, Texas",Central Time (US & Canada),negative
+569317426975760384,US Airways,,Debbie_Crockett,,0,usairways landed flight 545 chance making flight 5530 phoenix au,,2015-02-21 18:07:06 -0800,"Austin, Texas",Central Time (US & Canada),neutral
 569968010431066112,American,,ashritt,,0,americanair work comm skill w hate agent phx said confirmed flight dfw amp got standby,,2015-02-23 13:12:17 -0800,"Iowa City, IA",Eastern Time (US & Canada),negative
 568494962880475137,US Airways,,vibhors,,0,usairways americanair u air switching aa io app aa app much better,,2015-02-19 11:38:55 -0800,"Cary, NC",Eastern Time (US & Canada),negative
 568882014415249408,Virgin America,,snellbell,,0,virginamerica already contacted central baggage amp sent dm renttherunway charging dress lost suitcase help,,2015-02-20 13:16:56 -0800,,Quito,negative
@@ -1180,10 +1180,10 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568480213123919874,US Airways,,ousoonerfanatic,,0,usairways americanair feel sorry aa,,2015-02-19 10:40:19 -0800,"Semiahmoo, WA Soonerland",Pacific Time (US & Canada),negative
 567728017196457987,US Airways,,laura_crom,,0,usairways website board logan said time went security got gate 2,,2015-02-17 08:51:21 -0800,boston,Quito,negative
 568458157703499776,US Airways,,dtndtndtndtn,,0,usairways hold two hour got hung oh god,,2015-02-19 09:12:40 -0800,Iowa CIty,Central Time (US & Canada),negative
-569910441423417345,US Airways,,ColfaxCapital,,0,usairways great operation guy running mechanical issue taping piece plane together lol httptcoi5v9wfbtue,,2015-02-23 09:23:32 -0800,"39.0708° N, 106.9886° W",Quito,negative
+569910441423417345,US Airways,,ColfaxCapital,,0,usairways great operation guy running mechanical issue taping piece plane together lol httptcoi5v9wfbtue,,2015-02-23 09:23:32 -0800,"39.0708° N, 106.9886° W",Quito,positive
 569603962233622528,American,,agirlnamedfrank,,0,americanair thanks forcing check carry luggage exactly spent extra money travel size toiletry,,2015-02-22 13:05:41 -0800,Brooklyn,Eastern Time (US & Canada),negative
 569745365940830210,United,,patlee,,0,united loyal premier platinum member lack communication really bad also ’ see taken yet,,2015-02-22 22:27:35 -0800,"Bay Area, CA",Pacific Time (US & Canada),negative
-570250252382416896,Southwest,,kdtwill,,0,southwestair traditionally used sledge hammer low taking share driving scalpel approach data science anamarketers,,2015-02-24 07:53:49 -0800,"Austin, Texas",,neutral
+570250252382416896,Southwest,,kdtwill,,0,southwestair traditionally used sledge hammer low taking share driving scalpel approach data science anamarketers,,2015-02-24 07:53:49 -0800,"Austin, Texas",,negative
 569685186495057920,US Airways,,KOstrowka,,0,usairways farmy phone wait time longer abcnetworks oscar coverage whatcustomerservice,,2015-02-22 18:28:27 -0800,"Raleigh, NC",Eastern Time (US & Canada),negative
 569291447377137664,United,,jbishop309,,0,united need contact regrading complaint get voucher fund future travel united,,2015-02-21 16:23:52 -0800,,Mountain Time (US & Canada),negative
 568861309384728577,Delta,,KaylaRose__,,0,jetblue one im trying make probably late flight see email could call pittsburgh international,,2015-02-20 11:54:39 -0800,,Eastern Time (US & Canada),negative
@@ -1227,7 +1227,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569614917826965504,American,,jenw714,,0,americanair americanair expect,,2015-02-22 13:49:14 -0800,Atl,Central Time (US & Canada),neutral
 567752396097351681,United,,courtneymjay,,0,united giving direct flight iah honolulu 3rd attempt 3 year 3rd delay 7 meal voucher wow customer service,,2015-02-17 10:28:14 -0800,,Atlantic Time (Canada),negative
 568917054004334592,US Airways,,mrcustaylor555,,0,usairways cancelled flightled original flight aruba way home told dont seat never flying usairways,,2015-02-20 15:36:10 -0800,,,negative
-569087906851135488,United,,DaRenton,,0,united arrives lax 803,,2015-02-21 02:55:04 -0800,Colorado,Mountain Time (US & Canada),negative
+569087906851135488,United,,DaRenton,,0,united arrives lax 803,,2015-02-21 02:55:04 -0800,Colorado,Mountain Time (US & Canada),neutral
 569972804822704128,US Airways,,joshahamilton,,0,usairways honest question 1way ticket charlotte hub lax 2nd biggest city usa almost 600,,2015-02-23 13:31:20 -0800,Cali native now in Charlotte,Quito,negative
 569723985262354433,United,,ljtypes,,0,united told case week still resolved,,2015-02-22 21:02:37 -0800,H-town,,negative
 569372947720179714,Southwest,,WesHartman01,,0,southwestair cancelled flightled flight asshole phone support worstairline,,2015-02-21 21:47:43 -0800,"San Diego, CA",Pacific Time (US & Canada),negative
@@ -1268,7 +1268,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568502289402630144,Southwest,,itsjessme_,,0,southwestair boyfriend loved imaginedragons since 2009 amp would awesome go vega event way help,,2015-02-19 12:08:02 -0800,,Alaska,positive
 569633279546036224,Virgin America,,ChrysiChrysic,,0,virginamerica chrysichrysic assistance yesterday u cancelled flightled flight give u hotel hotline shame,,2015-02-22 15:02:11 -0800,,,negative
 569912608901373952,American,,charliebrand,,0,americanair taken care already ive come expect level horrible service time time,,2015-02-23 09:32:09 -0800,,Pacific Time (US & Canada),negative
-568275746516385793,Southwest,,ale_lleal,,0,southwestair ❤️ airline understands u military family unpredictable change pound 👊,,2015-02-18 21:07:50 -0800,HTX,Atlantic Time (Canada),neutral
+568275746516385793,Southwest,,ale_lleal,,0,southwestair ❤️ airline understands u military family unpredictable change pound 👊,,2015-02-18 21:07:50 -0800,HTX,Atlantic Time (Canada),negative
 567749206236880896,Southwest,,deantak,,0,southwestair followed,,2015-02-17 10:15:33 -0800,Silicon Valley,Pacific Time (US & Canada),neutral
 569630959718551552,United,,gtotheoff,,0,united pushing five hour time worth nothing reflight booking problem option unfortunately,,2015-02-22 14:52:58 -0800,,Central Time (US & Canada),negative
 570189507447775234,American,,richardgru,,0,americanair sorry sad answer fully refundable first fare response 6 week aa future,,2015-02-24 03:52:26 -0800,,,negative
@@ -1360,7 +1360,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 567752407166103552,Southwest,,caralageson,,0,southwestair someone help set callback today,,2015-02-17 10:28:16 -0800,"Cleveland, Ohio",Central Time (US & Canada),neutral
 568857976733376512,Delta,,HowDoesItSound,,0,jetblue thanks reminder older flight id taken easy access add point new jb account awesome service,,2015-02-20 11:41:25 -0800,"Brooklyn, NY",Pacific Time (US & Canada),positive
 568328533421867008,United,,ellieINchicago,,0,united oh flight fine lost luggage much look like ill least half day late flight conference santa monica,"[34.06071437, -117.59814212]",2015-02-19 00:37:36 -0800,"Chicago, IL",Central Time (US & Canada),negative
-567758248481415170,Delta,,JayVig,,0,jetblue roxydigital good want extra peanut flight lol jvmchat,,2015-02-17 10:51:29 -0800,"Jersey City, NJ",Eastern Time (US & Canada),neutral
+567758248481415170,Delta,,JayVig,,0,jetblue roxydigital good want extra peanut flight lol jvmchat,,2015-02-17 10:51:29 -0800,"Jersey City, NJ",Eastern Time (US & Canada),negative
 568240029413163008,United,,MichHardyTV,,0,united vusaaustralia im aussie cowgirl lookin cowboy take fort worth estelle say ill find,"[-33.87144962, 151.20821275]",2015-02-18 18:45:55 -0800,Sydney,Hawaii,negative
 569558713079443456,United,,LMSNaomi,,0,united hi yes need free hotel stay honalulu due 4 hour delayua53 since miss second flight kauai,,2015-02-22 10:05:53 -0800,deep in the ❤ of Texas...,Atlantic Time (Canada),negative
 569594855556452352,American,,jmgscott,,0,americanair ive trying 4 hour get hold someone,,2015-02-22 12:29:30 -0800,"Dallas, TX",Central Time (US & Canada),negative
@@ -1375,7 +1375,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569184069734395906,US Airways,,shivadelrahim,,0,usairways contact info upgrade using advantage mile,,2015-02-21 09:17:11 -0800,,,neutral
 570014685166219264,Southwest,,Drewscifer,,0,southwestair cancelled flightled flight back queue want charge 200 business class stay classy,,2015-02-23 16:17:45 -0800,Washington DC,Eastern Time (US & Canada),negative
 569623156337586177,US Airways,,Brendanhwalters,,0,usairways please help bag way get customer service since 8am morning help,,2015-02-22 14:21:58 -0800,NYC,,negative
-568460278662193152,United,,27_POWERS,,0,united inquire nothing itpretend ’ interested responded dm response back,,2015-02-19 09:21:06 -0800,"Costa Mesa, CA",Pacific Time (US & Canada),neutral
+568460278662193152,United,,27_POWERS,,0,united inquire nothing itpretend ’ interested responded dm response back,,2015-02-19 09:21:06 -0800,"Costa Mesa, CA",Pacific Time (US & Canada),negative
 569741783896367104,American,,MusseZam,,0,americanair please connect two reservation together also add child lap kevolt sozldj march 1 thanks,,2015-02-22 22:13:21 -0800,,,negative
 569598544379817984,American,,csb2107,,0,americanair cant get ahold aadvantage reservation need ticket reservation cancelled flight soon help,,2015-02-22 12:44:10 -0800,,,negative
 568944928266412032,Delta,,kbosspotter,,0,jetblue think snow boston 224 effect flight,,2015-02-20 17:26:56 -0800,Logan International Airport,Atlantic Time (Canada),neutral
@@ -2043,7 +2043,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 570245367607857153,American,,ShpprMktMichael,,0,americanair thanks update,,2015-02-24 07:34:24 -0800,USA,,positive
 568963006547111936,United,,neilawinston,,1,united love hate relationship day youre good others terribly awful saddening,,2015-02-20 18:38:46 -0800,"Cleveland, OH",Eastern Time (US & Canada),positive
 568149194654904320,Southwest,,jwimpee,,0,southwestair loveluv addition passbook option,,2015-02-18 12:44:58 -0800,"Rockwall, TX USA",Central Time (US & Canada),neutral
-569700244050440192,American,,Africanbeauteee,,0,americanair employee racist,,2015-02-22 19:28:17 -0800,,Quito,neutral
+569700244050440192,American,,Africanbeauteee,,0,americanair employee racist,,2015-02-22 19:28:17 -0800,,Quito,negative
 570202097041305600,American,,Marci_DZ,,0,americanair superyan get compensation cancelled flighting departure twice made missed wedding,,2015-02-24 04:42:28 -0800,,Eastern Time (US & Canada),negative
 569318505755103232,United,negative,tarlonious,Late Flight,1,united 3 hoursat point let people plane foxnews cnn msnbc,,2015-02-21 18:11:23 -0800,,,negative
 568639207846989824,United,,theAdamW,,0,united im searching flight redeem mile getting different search result 2 user account reason,,2015-02-19 21:12:06 -0800,"Los Angeles, California",Pacific Time (US & Canada),negative
@@ -2071,7 +2071,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568163907325599745,US Airways,,Hayleyville,,0,usairways looking forward friend family time arizona,,2015-02-18 13:43:26 -0800,DC,Quito,negative
 569559311095095296,US Airways,,ClaudOakeshott,,0,usairways link doesnt work mobile,,2015-02-22 10:08:16 -0800,Washington DC,,negative
 567734830800961537,US Airways,,Jamayka,,0,usairways call say yall busy call back late flightr terrible customer service,,2015-02-17 09:18:26 -0800,"Austin, TX",Central Time (US & Canada),negative
-570017568964132865,US Airways,,jasemccarty,,0,usairways embarrassing,,2015-02-23 16:29:13 -0800,BTR/DCA/IAD/MSY - etc,Central Time (US & Canada),negative
+570017568964132865,US Airways,,jasemccarty,,0,usairways embarrassing,,2015-02-23 16:29:13 -0800,BTR/DCA/IAD/MSY - etc,Central Time (US & Canada),neutral
 567800210064420864,US Airways,,Logunov_Daniil,,0,usairways amazing best follow please follow back🙏🙏🙏✌️😉,,2015-02-17 13:38:13 -0800,"Russia, Россия",Abu Dhabi,positive
 568546953262436352,Southwest,,WOOKesq,,0,southwestair thank,,2015-02-19 15:05:31 -0800,catch me if you can,Eastern Time (US & Canada),positive
 569958127258497025,Delta,,nnimrodd,,0,sorry unfollowing jetblue,"[51.54381448, -0.00116722]",2015-02-23 12:33:01 -0800,,London,neutral
@@ -2124,7 +2124,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568625014037045248,United,,philwa,,0,united wasnt delay much straight cancelled flightlation weather wasnt issue either,,2015-02-19 20:15:42 -0800,"Los Angeles, CA",Pacific Time (US & Canada),negative
 569762394169221121,US Airways,,rossj987,,0,usairways ive flown 6 figured worth mile lifetime first last ever flight u airway,,2015-02-22 23:35:15 -0800,"Washington, D.C.",Eastern Time (US & Canada),negative
 570291642550386689,United,,nydia376,,0,united flew back w company since united didnt earlier flight,,2015-02-24 10:38:17 -0800,USA,,negative
-569993670482644992,Delta,,ernest_borg9,,0,stop jetblue,,2015-02-23 14:54:15 -0800,NY,Quito,negative
+569993670482644992,Delta,,ernest_borg9,,0,stop jetblue,,2015-02-23 14:54:15 -0800,NY,Quito,neutral
 568116895305617409,US Airways,,seungminkim,,0,usairways hope thank help traveled halfway across globe want suitcase,,2015-02-18 10:36:37 -0800,"Washington, D.C.",Quito,positive
 568479680229208064,US Airways,,nickpasculli,,0,usairways one yuma ticket counter 30 minute 30 people line terrible service,,2015-02-19 10:38:12 -0800,"Monterey County, CA",Arizona,negative
 568234992557527040,US Airways,,MarisaCavanaugh,,0,usairways 4 flight 48hrs amp ive flight attendant 3 flight freaky coincidence plus side shes great,,2015-02-18 18:25:54 -0800,NYC,Eastern Time (US & Canada),positive
@@ -2281,7 +2281,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569946372901707776,Delta,,maatkare67,,0,jetblue tatianaking thewayoftheid feel free travel voucher assuage indignation,,2015-02-23 11:46:19 -0800,"Los Angeles, CA",Pacific Time (US & Canada),positive
 567911142955311104,Delta,,thedonkeyshow,,0,jetblue awe guy great cant wait travel soon,,2015-02-17 20:59:02 -0800,"New York City, NY",Central Time (US & Canada),positive
 570008661885526016,American,,MaryHan28,,0,americanair 22 took cost flight bank account cant get refund 2 week loyal customer,,2015-02-23 15:53:49 -0800,,,negative
-569672116750004226,United,,ScottBerry18,,0,united educate bohol 501c3 wall volunteer staff help kid buy plane ticket cant help,,2015-02-22 17:36:31 -0800,"Albuquerque, New Mexico",Arizona,neutral
+569672116750004226,United,,ScottBerry18,,0,united educate bohol 501c3 wall volunteer staff help kid buy plane ticket cant help,,2015-02-22 17:36:31 -0800,"Albuquerque, New Mexico",Arizona,negative
 570220208037584896,American,,THE_amandajean,,0,americanair thank yayayay,,2015-02-24 05:54:26 -0800,the one and only TEXAS!!!!,Mountain Time (US & Canada),positive
 568825563126865922,US Airways,,exilauren,,0,usairways policy around bringing breast pump board,,2015-02-20 09:32:37 -0800,"Washington, DC via Boston",Central Time (US & Canada),negative
 568901823215448064,Virgin America,,MsReeseGirl,,0,virginamerica moved seat notice better seat cabin select behind row selected👎 disappointed,,2015-02-20 14:35:38 -0800,Los Angeles,Pacific Time (US & Canada),negative
@@ -2383,7 +2383,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 568543722943614976,Southwest,,geekstiel,,0,southwestair ticket atlanta show would love go sister ♥️🙏,,2015-02-19 14:52:41 -0800,,Atlantic Time (Canada),neutral
 569731104070115329,Southwest,,JasmineDT,,1,southwestair youre early frontrunner best airline oscars2016,,2015-02-22 21:30:54 -0800,Washington D.C. ,Eastern Time (US & Canada),positive
 569337916872220673,United,,jackiehoglund,,0,united 1 layover itinerary swapped 3 layover itinerary really,,2015-02-21 19:28:31 -0800,"Boston, MA",Quito,negative
-567746544536145921,Southwest,,GameDaySweetie,,0,southwestair always fly sw loyalrrmember,,2015-02-17 10:04:59 -0800,"Nashville, TN",,neutral
+567746544536145921,Southwest,,GameDaySweetie,,0,southwestair always fly sw loyalrrmember,,2015-02-17 10:04:59 -0800,"Nashville, TN",,positive
 567783456420012032,Delta,,FoppishDork,,0,jetblue haha youre everything right dont change thing slash twitter engagement make even cooler bestairline,,2015-02-17 12:31:39 -0800,,,negative
 569625606536732672,Delta,,rambinasaurus,,0,jetblue flight 1025 jfk tpa 805am saturday one way ticket,,2015-02-22 14:31:42 -0800,,Atlantic Time (Canada),negative
 569044397645385728,Delta,,mattwheeler,,0,jetblue guy lost bag ski gear flew nyc ski buy new stuff tomorrow,"[40.64339686, -111.49337274]",2015-02-21 00:02:11 -0800,"New York, NY",Eastern Time (US & Canada),negative
@@ -2427,7 +2427,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569577434657492992,Delta,,ChrisDonahoe,,0,jetblue w edits dear msbgu mba need better benefit work u meet,,2015-02-22 11:20:17 -0800,"Washington, D.C.",Quito,neutral
 568231529823891456,United,,pnjarich,,0,united worry everyone boarded cushion brought took made,,2015-02-18 18:12:08 -0800,"ÜT: 38.006902,-78.502005",Quito,negative
 568790282839433216,US Airways,,Peter_D_Ahern,,0,usairways made never ran fast life,,2015-02-20 07:12:25 -0800,,,negative
-567758927111401474,Delta,,vegecomgirl,,0,jetblue jayvig like inflight snack im flying guy 228 jvmchat,,2015-02-17 10:54:11 -0800,New York City,Eastern Time (US & Canada),negative
+567758927111401474,Delta,,vegecomgirl,,0,jetblue jayvig like inflight snack im flying guy 228 jvmchat,,2015-02-17 10:54:11 -0800,New York City,Eastern Time (US & Canada),neutral
 569643184067727361,American,,PepdogSez,,0,americanair cancelled flight previous request accept ticket number document number,,2015-02-22 15:41:33 -0800,,Central Time (US & Canada),negative
 570278869133107201,American,,SusieBarre,,0,americanair flight 386 dallas jacksonville fl cancelled flightled one notified whats going,,2015-02-24 09:47:32 -0800,,,negative
 568502279193681921,Delta,,MikewDickman,,0,jetblue apparently substitute pilot flight 69 bos fll cant found info avail counter,,2015-02-19 12:08:00 -0800,South Florida,,negative
@@ -2514,7 +2514,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569916586682945536,US Airways,,Andyba25,,0,usairways called number said one available take callguys insane,,2015-02-23 09:47:57 -0800,South,,negative
 567903883047088128,Delta,,michaelhakimkan,,0,jetblue ripped suitcase yelled attitude geraldine employee baggage centerworst airline jetblue,,2015-02-17 20:30:11 -0800,,,negative
 569967305859293184,United,,KeamBleam,,0,united unitedairlines pls fix aspenbaggagefail issue pay way aspen flight cancelled flight left u cold den,,2015-02-23 13:09:29 -0800,"Harlem, NYC",Eastern Time (US & Canada),negative
-569537485761433600,US Airways,,clarkhook,,0,usairways finally spoke person despite mind boggling wait time rep pleasant helpful kudos,,2015-02-22 08:41:32 -0800,"Franklin, TN",Eastern Time (US & Canada),positive
+569537485761433600,US Airways,,clarkhook,,0,usairways finally spoke person despite mind boggling wait time rep pleasant helpful kudos,,2015-02-22 08:41:32 -0800,"Franklin, TN",Eastern Time (US & Canada),negative
 569605602961281024,American,,jddowsett,,0,americanair yet plenty available aa agent gate nearby say unable help customer flight,,2015-02-22 13:12:13 -0800,"PA, NY & HI",Quito,negative
 569172396680175616,United,,jrdnly,,0,united sfogtaus ua343 217 is9jx1 seat appears mite problem dr recently confirmed 50 bug bite mite,,2015-02-21 08:30:48 -0800,"iPhone: 50.079998,14.441111",Eastern Time (US & Canada),negative
 570218269111664640,American,,oobunillaoo,,0,americanair please tell dfw weather advisory rdu entire state nc shut ice amp snow,,2015-02-24 05:46:44 -0800,usa::fr::uk,London,negative
@@ -2585,7 +2585,7 @@ tweet_id,airline,airline_sentiment_gold,name,negativereason_gold,retweet_count,t
 569531387629318144,US Airways,,TravelingProf,,0,usairways calling 3 day,,2015-02-22 08:17:18 -0800,"Great Barrington, MA",Eastern Time (US & Canada),negative
 567931567881875457,Southwest,,MikeLeners,,0,southwestair neveind found way thanks making process painless,,2015-02-17 22:20:12 -0800,"Oakland, CA",Central Time (US & Canada),positive
 569258009320419330,Southwest,,MyGuitarSS,,0,southwestair failing diverted stuck communication make decision let u go 😞😡 flight 4229,,2015-02-21 14:11:00 -0800,,Quito,negative
-569933360564342784,Virgin America,,GunsNDip,,0,virginamerica interesting flying cancelled flight next four flight plannedneverflyvirginforbusiness,,2015-02-23 10:54:36 -0800,,Pacific Time (US & Canada),neutral
+569933360564342784,Virgin America,,GunsNDip,,0,virginamerica interesting flying cancelled flight next four flight plannedneverflyvirginforbusiness,,2015-02-23 10:54:36 -0800,,Pacific Time (US & Canada),negative
 570306529947193344,American,,TheTPVshow,,0,americanair slept miami airport due mechanical issue given 10000 bonus mile try make right slapintheface,,2015-02-24 11:37:27 -0800,MN,Central Time (US & Canada),negative
 569874553175810050,US Airways,,MustSeeItAll_,,0,usairways getting extremely frustrated w phoneonline service merging frequent flyer mile,,2015-02-23 07:00:55 -0800,NYC // LI ,,negative
 569530195306258432,Delta,,DrCraigKasper,,0,jetblue still sitting plane newburg getting ridiculous way treat loyal customer,,2015-02-22 08:12:34 -0800,"New York, New York",Eastern Time (US & Canada),negative
@@ -2813,7 +2813,7 @@ Lost Luggage",0,united flighted delayed hour 10pm arrival vega 4am seriously los
 568807747661266945,United,,caitlingshaw,,0,united customer service terrible,,2015-02-20 08:21:49 -0800,"Columbus, Ohio",Eastern Time (US & Canada),negative
 569937700993818625,Southwest,,mcmahon0074,,0,southwestair expensive go vega stop late flight june get non stop competition,"[42.3427148, -71.5504243]",2015-02-23 11:11:51 -0800,some where in massachusetts ,,negative
 569256471046823937,United,,ABBaitCo,,0,united forgot tell flight coming thanks allowing miss connection,,2015-02-21 14:04:53 -0800,"Bethlehem, PA",Eastern Time (US & Canada),positive
-569263677234388993,US Airways,,shivadelrahim,,0,usairways aa mile usair flight booked american,,2015-02-21 14:33:31 -0800,,,negative
+569263677234388993,US Airways,,shivadelrahim,,0,usairways aa mile usair flight booked american,,2015-02-21 14:33:31 -0800,,,neutral
 567770107062284288,Virgin America,,paulhting,,0,virginamerica trying make change advance 24 hour prior…tried online earlier wanted 300 change fee,,2015-02-17 11:38:36 -0800,"Charlottesville, VA",Eastern Time (US & Canada),negative
 568555130624217089,United,,dmb41shows,,0,united service staff le friendly,,2015-02-19 15:38:01 -0800,Pursuit of Happiness,Hawaii,negative
 569008601009762305,United,,johnwoodRTR,,0,united reservation desk told said plenty seat,"[39.83426941, -104.69960636]",2015-02-20 21:39:56 -0800,Hong Kong,Eastern Time (US & Canada),negative
@@ -2855,7 +2855,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569998122241232896,Southwest,,DrewDepo,,0,southwestair hasnt evennotified u theflight isdelayed via emailtextphone callif wererunning late flight would pissed unreliable,,2015-02-23 15:11:57 -0800,KCMO,,neutral
 570012934287568898,Delta,,bostongarden,,0,jetblue btw thanks responding quickly,,2015-02-23 16:10:48 -0800,"Boston, Austin, Kansas City ",Eastern Time (US & Canada),positive
 570242205463359488,American,,georgetietjen,,0,americanair let hope stay waybig thanks groundoutside crew across u last month great fb post yesterday,,2015-02-24 07:21:51 -0800,,,positive
-568242359928037377,US Airways,,od2be2003,,0,usairways,,2015-02-18 18:55:10 -0800,"Dallas, TX",Eastern Time (US & Canada),negative
+568242359928037377,US Airways,,od2be2003,,0,usairways,,2015-02-18 18:55:10 -0800,"Dallas, TX",Eastern Time (US & Canada),neutral
 568538044703178752,United,,TheKevinDent,,0,united make delay,,2015-02-19 14:30:07 -0800,Look behind you,Pacific Time (US & Canada),negative
 568573057184473089,Southwest,,destryfields,,0,southwestair making miracle customer service department gave far one friendliest phone call ever wheelsup,,2015-02-19 16:49:15 -0800,Chicago,Pacific Time (US & Canada),negative
 570250780252504064,Southwest,,Shan_Lyn,,0,southwestair spiritairlines fly toronto youre killing small,,2015-02-24 07:55:55 -0800,"InMyFeelings, IL",Central Time (US & Canada),neutral
@@ -2903,7 +2903,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569392315409829888,United,,billqamz,,0,united life goal complete ✔️,,2015-02-21 23:04:41 -0800,East Coast,,negative
 569658322732756992,Southwest,,Ashishwadhwa9,,0,southwestair u dont atlanta san fransisco 99 present sale like u last saleim looking 2 return ticket,,2015-02-22 16:41:42 -0800,,,neutral
 569687374193680384,United,,lclohmd,,1,united ua3785 tonight told delayed due late flight crew idea crew coming staff unhelpful idea,,2015-02-22 18:37:08 -0800,Toronto,,negative
-570217760430493698,Delta,,MaryCallaRowan,,0,jetblue get u flight vieques good right looking promising,,2015-02-24 05:44:42 -0800,,,neutral
+570217760430493698,Delta,,MaryCallaRowan,,0,jetblue get u flight vieques good right looking promising,,2015-02-24 05:44:42 -0800,,,positive
 567713896627470336,United,,rachaeldoyle21,,0,united broken entertainment system 8 hour nyc flight terrible cabin crew service online complaint form wont work hopeless,,2015-02-17 07:55:15 -0800,"Portsmouth, UK",,negative
 568881812174299137,United,,ADolledUpBlog,,0,united never grossed life disappointmentyet againflying,,2015-02-20 13:16:07 -0800,"Salt Lake City, UT",Mountain Time (US & Canada),negative
 568379326678368256,United,,lalo_haros,,0,united thank 😊,,2015-02-19 03:59:26 -0800,Monterrey ,Mountain Time (US & Canada),positive
@@ -3057,7 +3057,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569269757293293568,US Airways,,tlarmondra,,0,usairways americanair 9 empty seat open 1st aa1061 upgrade u gold member would love consistent policy,,2015-02-21 14:57:41 -0800,"Charlotte, NC",,negative
 568522744356212738,US Airways,,nickpasculli,,0,usairways heard monterey airport closed due thick fog update,,2015-02-19 13:29:19 -0800,"Monterey County, CA",Arizona,negative
 569226857272516608,US Airways,,MattClement,,0,usairways cant wait trip thanks getting,,2015-02-21 12:07:13 -0800,"Troy, NY",Eastern Time (US & Canada),positive
-569727598130962432,American,,sannimaarit,,0,americanair thanks best staying night dallas new trial detroit via atlanta tomorrow assuming cancelled flightlations,,2015-02-22 21:16:59 -0800,Finn between Detroit & Toledo,Helsinki,positive
+569727598130962432,American,,sannimaarit,,0,americanair thanks best staying night dallas new trial detroit via atlanta tomorrow assuming cancelled flightlations,,2015-02-22 21:16:59 -0800,Finn between Detroit & Toledo,Helsinki,negative
 569741756968919040,Delta,,KnockoutOC,,0,jetblue last sleep cali back jfk tomorrow night looking forward another amazing flight,"[33.7008468, -118.0192094]",2015-02-22 22:13:14 -0800,New York City,Atlantic Time (Canada),positive
 568111178708336640,US Airways,,LayneHillesland,,0,usairways yeah know thatbut ill spend almost 500 dollar ticket since price gone week,,2015-02-18 10:13:54 -0800,,,negative
 569125558568783872,United,,garycirlin,,0,united kudos capt herman relayed chief pilot emailing someone,,2015-02-21 05:24:41 -0800,NY,,negative
@@ -3259,7 +3259,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 568868703762296832,Southwest,,mcgibbon_keith,,0,southwestair best video seen ever teamspirit httpstcox5jena7nye,,2015-02-20 12:24:02 -0800,Ottawa Canada ,Eastern Time (US & Canada),positive
 569947033857069057,US Airways,,AnnaIntheCity,,0,usairways americanair trying chg ticket staff member leaving org flywere nonprofitcant make exception,,2015-02-23 11:48:56 -0800,Northern Virginia,Eastern Time (US & Canada),negative
 569091378438746112,Delta,,mutantgatto,,0,jetblue word thanks,,2015-02-21 03:08:52 -0800,ravioli,Eastern Time (US & Canada),positive
-570272778840104960,Southwest,,NaLeih,,0,southwestair thanks apology unfortunately one many bad experience longer flying southwest,,2015-02-24 09:23:20 -0800,,,positive
+570272778840104960,Southwest,,NaLeih,,0,southwestair thanks apology unfortunately one many bad experience longer flying southwest,,2015-02-24 09:23:20 -0800,,,negative
 569419949007085568,United,,Whosgunz,,0,united nice wonder pick respond maybe happy customer easier wonder many left,,2015-02-22 00:54:29 -0800,,,negative
 569973204263034880,US Airways,,ashtongr8z,,0,usairways exchangecredit policy worthless shadier white house dissatisfied nine right,,2015-02-23 13:32:56 -0800,,Alaska,negative
 568875453773168640,US Airways,,ScottKat22,,0,usairways look delta made right call cho please evaluate httptco3khgjofgpx,,2015-02-20 12:50:52 -0800,,Eastern Time (US & Canada),negative
@@ -3362,7 +3362,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569676317144133632,American,,dogbuckeye,,0,americanair hold 3 hoursgot agent immediately txfd change cncdld flighttold would 1 min 80 min late flightr waiting,,2015-02-22 17:53:12 -0800,,,negative
 569993098023063552,American,,GREATNESSEOA,,0,americanair usairways ive tried understanding let handle situation guess wrong,,2015-02-23 14:51:59 -0800,McKinney TX,,negative
 570047059878936576,Delta,,kbosspotter,,0,jetblue airport code test go slc bos mco,,2015-02-23 18:26:24 -0800,Logan International Airport,Atlantic Time (Canada),neutral
-568893072001646592,United,,jeeden_1,,0,united u air httptcoeis9hcnpro,,2015-02-20 14:00:52 -0800,"Purcellville, VA",,negative
+568893072001646592,United,,jeeden_1,,0,united u air httptcoeis9hcnpro,,2015-02-20 14:00:52 -0800,"Purcellville, VA",,neutral
 568807231396802560,United,,jbone3353,,0,united done,,2015-02-20 08:19:46 -0800,,Pacific Time (US & Canada),neutral
 568909605499215872,US Airways,,thomasrhodes,,0,usairways nothing tonight flight gogo internet way someone could send dm email,,2015-02-20 15:06:34 -0800,South Carolina ,,negative
 567733946717196288,Delta,,alsonmusical,,0,jetblue continue,,2015-02-17 09:14:55 -0800,"Yauco, Puerto Rico",Central Time (US & Canada),neutral
@@ -3468,7 +3468,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 568200934507057152,Delta,,JunkyardFiegs,,0,jetblue thx pointer im good big monitor advice pick come western conf nba,,2015-02-18 16:10:34 -0800,,Central Time (US & Canada),negative
 568637070207422464,US Airways,,syfialkoff,,0,usairways actually true get seat online big hassle policy totally dishonest misleading faa,,2015-02-19 21:03:36 -0800,,,negative
 567844774994014208,United,,Pat89339,,0,united third wheelchair broken httptcotvk0pyxqv5,,2015-02-17 16:35:19 -0800,,Pacific Time (US & Canada),negative
-569165652876881920,United,,_LaVitaLoca,,0,united incentive give another chance,,2015-02-21 08:04:00 -0800,,Central Time (US & Canada),negative
+569165652876881920,United,,_LaVitaLoca,,0,united incentive give another chance,,2015-02-21 08:04:00 -0800,,Central Time (US & Canada),neutral
 568595632140775424,US Airways,,dcamp1014,,0,usairways hot food 5 hour flight crazy couldnt eat phl bc original connection 40 min late flight give phltolas,,2015-02-19 18:18:57 -0800,"New York, NY",Central Time (US & Canada),negative
 568484335747268608,Southwest,,alexster4324,,0,southwestair get luv fallow,,2015-02-19 10:56:42 -0800,,,neutral
 569543665221136384,US Airways,,saragnyc,,0,usairways hold two hour pick phoneeeee,,2015-02-22 09:06:06 -0800,LOS ANGELES,Pacific Time (US & Canada),negative
@@ -3621,7 +3621,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 568123193577177089,US Airways,,Twinscream1,,0,usairways number 2147251966 cant waitlol usairsucks,,2015-02-18 11:01:39 -0800,,,negative
 569686624721707009,US Airways,,jrscharf,,0,usairways get answer question holding hour 6x getting message said arent taking call,,2015-02-22 18:34:10 -0800,,Eastern Time (US & Canada),negative
 569885742526124032,American,,Brittany1golf,,0,americanair cathaypacific cathaypacificus cant even tell country 😥😥,,2015-02-23 07:45:23 -0800,,Eastern Time (US & Canada),negative
-570110706588262400,American,,meg4miles,,0,americanair hey name issue reservation help,,2015-02-23 22:39:19 -0800,N to da Y to da C ,,negative
+570110706588262400,American,,meg4miles,,0,americanair hey name issue reservation help,,2015-02-23 22:39:19 -0800,N to da Y to da C ,,neutral
 569646004254998528,Delta,,cwolicki,,0,jetblue flight 1106 delayed ny problem,,2015-02-22 15:52:45 -0800,Boston,Eastern Time (US & Canada),negative
 569421367243878400,US Airways,,himmelb1,,0,usairways first available flight tuesday flight today booked flt 755 available buy online,,2015-02-22 01:00:07 -0800,,,negative
 569935609940316160,Southwest,,bzjames,,0,southwestair got help nice lady phone georgia thank,,2015-02-23 11:03:32 -0800,,,positive
@@ -3634,7 +3634,7 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569870837815205888,American,,urduckcommander,,0,americanair almost 4 hour heard nothing yet reservation team supposed,,2015-02-23 06:46:10 -0800,,Quito,negative
 569020707113476096,Virgin America,,courtDMC,,0,virginamerica thank easy itinerary shift impending weather quick painless amp free,,2015-02-20 22:28:03 -0800,New York for now.,Central Time (US & Canada),positive
 569714918951391232,American,,TacoDangerous,,0,americanair take care cowboycerrone please thanks,,2015-02-22 20:26:36 -0800,"Two Guns, Arizona",Central Time (US & Canada),positive
-568775130505207809,Delta,,NYYash,,0,jetblue inconvenience understatement like torture clearly going wrong path jetblue,,2015-02-20 06:12:13 -0800,"New York City, NY",Atlantic Time (Canada),negative
+568775130505207809,Delta,,NYYash,,0,jetblue inconvenience understatement like torture clearly going wrong path jetblue,,2015-02-20 06:12:13 -0800,"New York City, NY",Atlantic Time (Canada),neutral
 570242191685234688,US Airways,,_Justin22_,,0,usairways prepared weather want find take train phl catch connection,,2015-02-24 07:21:47 -0800,,Eastern Time (US & Canada),negative
 570177698166923267,US Airways,,MLasichak,,0,usairways nope yet,,2015-02-24 03:05:31 -0800,"Crofton, Maryland",,negative
 568182386409607168,Southwest,,joshuapromero,,0,southwestair far good httptco16c9ex79rk,,2015-02-18 14:56:51 -0800,"San Diego, CA",Pacific Time (US & Canada),positive
@@ -3663,6 +3663,6 @@ Customer Service Issue",0,southwestair never got cancelled flightlation text mor
 569960303514923009,American,,avaflav13,,0,americanair least could would refund oneway ticket buy since werent able accommodate thank,,2015-02-23 12:41:40 -0800,,Quito,positive
 570304244001193984,US Airways,,Anthony_Scerri,,0,usairways stuck 40 minute due lavatory issue beverage snack customer service flt 645 pho fail refund,,2015-02-24 11:28:22 -0800,"Astoria, NY",Quito,negative
 567847737061941249,US Airways,,mttdprkr,,0,usairways 4 hour 4 hour four hour like joke,,2015-02-17 16:47:05 -0800,"Vancouver, WA",Pacific Time (US & Canada),negative
-567823564167192576,Virgin America,,miaerolinea,,1,nice rt virginamerica man steel might faster wifi – saying sciencebehindtheexperience httptcofgrbpazsix,,2015-02-17 15:11:02 -0800,Worldwide,Caracas,neutral
+567823564167192576,Virgin America,,miaerolinea,,1,nice rt virginamerica man steel might faster wifi – saying sciencebehindtheexperience httptcofgrbpazsix,,2015-02-17 15:11:02 -0800,Worldwide,Caracas,negative
 570273819287531520,American,,GoldensPleasure,,0,americanair aww thanks aadfw gma amso understand btw aa airline im able trvlove guy,,2015-02-24 09:27:28 -0800,East Coast     CT.,Central Time (US & Canada),positive
 569341769114128386,United,,suntoshi,,0,united lounge tell u pillow grandma one lady open closet see 2 right unitedlies,,2015-02-21 19:43:50 -0800,"Bedford, Nh",Eastern Time (US & Canada),negative

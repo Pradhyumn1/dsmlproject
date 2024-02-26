@@ -1,2 +1,3 @@
 venv/
 /svm_twitter_sentiment.pkl
+/svm_twitter_sentiment.pkl.gz
