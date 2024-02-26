@@ -57,3 +57,10 @@ Demonstrates text preprocessing, sentiment prediction model building, and evalua
 
 ## Author
 Pradhyumn
+
+
+# AWS deployed link--
+
+https://52.90.218.140:5050/predict
+
+
