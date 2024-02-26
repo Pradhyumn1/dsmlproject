@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Twitter Sentiment Analysis</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            /* display: flex; */
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: black; /* Updated background color */
+            color: white; /* Updated text color */
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        #tweet {
+            width: 300px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        #buttons-container {
+            display: flex;
+            justify-content: center; /* Align buttons horizontally */
+            gap: 10px; /* Add some space between buttons */
+            margin-bottom: 10px;
+        }
+
+        #predict, #reset {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        #predict {
+            background-color: #008CBA;
+            color: white;
+        }
+
+        #reset {
+            background-color: #f44336;
+            color: white;
+        }
+
+        #sentiment {
+            font-size: 18px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Twitter Sentiment Analysis</h1>
+    <div class="container">
+        <input type="text" id="tweet" placeholder="Enter your tweet">
+        <div id="buttons-container">
+            <button id="predict">Predict</button>
+            <button id="reset">Reset</button>
+        </div>
+        <div id="sentiment"></div>
+    </div>
+
+    <script>
+        const tweetInput = document.getElementById('tweet');
+        const predictButton = document.getElementById('predict');
+        const resetButton = document.getElementById('reset');
+        const sentimentOutput = document.getElementById('sentiment');
+
+        predictButton.addEventListener('click', () => {
+            const tweet = tweetInput.value;
+
+            // Sentiment analysis logic here (replace with your own implementation)
+            const sentiment = analyzeSentiment(tweet);
+
+            sentimentOutput.textContent = `Sentiment: ${sentiment}`;
+        });
+
+        resetButton.addEventListener('click', () => {
+            tweetInput.value = '';
+            sentimentOutput.textContent = '';
+        });
+
+        function analyzeSentiment(tweet) {
+            // Replace this with your sentiment analysis logic
+            // This is a simple example that just returns a random sentiment
+            const sentiments = ['positive', 'negative', 'neutral'];
+            return sentiments[Math.floor(Math.random() * sentiments.length)];
+        }
+    </script>
+</body>
+
+</html>
