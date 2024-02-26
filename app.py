@@ -1,26 +1,45 @@
-# install streamlit: pip install streamlit
-# run: streamlit run app.py
+import os
+import pickle  
+from flask import Flask, request, jsonify, render_template
 
-import streamlit as st
-import pickle
-import time
 
-# load the model
-model = pickle.load(open('twitter_sentiment.pkl', 'rb'))
+app = Flask(__name__)
 
-st.title('Twitter Sentiment Analysis')
 
-tweet = st.text_input('Enter your tweet')
+try:
+    with open("svm_twitter_sentiment.pkl", "rb") as f:
+        model = pickle.load(f)
+except FileNotFoundError as e:
+    print(f"Error loading model: {e}")
+    exit(1)
 
-submit = st.button('Predict')
 
-if submit:
-    start = time.time()
-    prediction = model.predict([tweet])
-    end = time.time()
-    st.write('Prediction time taken: ', round(end-start, 2), 'seconds')
-    
-    print(prediction[0])
-    st.write(prediction[0])
+@app.route("/", methods=["GET"])
+def index():
+    """Serves the HTML template for the sentiment analysis interface."""
+    return render_template("my.html")  
 
-    
+
+@app.route("/predict", methods=["POST"])
+def predict():
+    """Predicts sentiment based on the provided tweet in the request body."""
+    try:
+        # Extract tweet from request data
+        tweet = request.json["tweet"]
+
+        # Make prediction using the loaded model
+        prediction = model.predict([tweet])[0]
+
+        # Return prediction as JSON response
+        response = {
+            "prediction": prediction,
+        }
+        return jsonify(response)
+
+    except Exception as e:  # Catch generic errors
+        print(f"Error during prediction: {e}")
+        return jsonify({"error": "Internal server error"}), 500
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0',port=5050)
